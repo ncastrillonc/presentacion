@@ -60,9 +60,9 @@
 							</header>
 							<ul class="icons major">
                                                                 <!-- http://www.themefocus.co/alterna/newdemo/awesome-icons/ -->
-								<li><span class="icon fa-facebook-official major style1"><span class="label">Lorem</span></span></li>
-								<li><span class="icon fa-twitter major style2"><span class="label">Ipsum</span></span></li>
-								<li><span class="icon fa-envelope major style3"><span class="label">Dolor</span></span></li>
+								<li><span class="icon fa-html5 major style1"><span class="label">HTML</span></span></li>
+								<li><span class="icon fa-css3 major style2"><span class="label">CSS</span></span></li>
+								<li><span class="icon fa-database major style3"><span class="label">SQL</span></span></li>
 							</ul>
 						</div>
 					</section>
